@@ -1,4 +1,4 @@
-### PPT파일 sungjunkwon/protfolio/[포트폴리오] 권성준.pptx (sungjunkwon/protfolio/[포트폴리오] 권성준.pptx)
+[포트폴리오.pptx ] (sungjunkwon/protfolio/[포트폴리오] 권성준.pptx)
 # Itroduction
 * **Profile**
  	- **권성준 (Seongjun Kown)**
