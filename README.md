@@ -27,14 +27,14 @@
 	- **CMS사이트 개발**
 		+ **기간** : 2017.05 ~ 2017.12
 		+ **회사** : (주) 블렌딩
-		+ **사용기술** : spring boot, java, jquery, html, css, mysql, aws ec2, aws route53, aws rds,  aws s3
+		+ **사용기술** : java, spring boot, jquery, html, css, mysql, aws ec2, aws route53, aws rds,  aws s3
 		+ **설명** : 회사 내 음악 동영상 서비스를 위해 콘텐츠 관리 사이트 개발을 하였습니다. 초기 업무는 프론트엔드 개발로 곡 정보 관리, 앨범 정보 관리, 가수 정보 관리, 영상 입수 관리 등을 개발하였고 image crop, table sort, table drag, datepicker 등의 플러그인을 사용하여 필요 기능을 구현하였습니다.
 백엔드 보조 업무로는 S3 저장 경로 수정, Excel 업로드 작업, spring MVC 단 보조 개발을 하였습니다. 
 
-- **정산 관리 내역 사이트**
+	- **정산 관리 내역 사이트**
 		+ **기간** : 2017.08 ~ 2017.12
 		+ **회사** : (주) 블렌딩
-		+ **사용기술** : html, css, jquery, django, python, git, aws ec2, mysql, route53
+		+ **사용기술** : python, django, html, css, jquery, git, aws ec2, mysql, route53
 		+ **설명** : Vlending 회사는 음반산업과 영상서비스를 하고 있기 때문에 음반 산업에 대한 정산 관리내역을 공급사와 제작사 등에게 보여줄 수 있는 사이트가 필요했습니다. python 기반인 django 프레임 워크를 이용하여 개발하였고 인증, 관리와 같이 대부분의 사이트에서 사용하는 기능들이 기본 모듈로 제공하였기 때문에 1~2인으로 개발할 수 있었습니다. 
 개발은 주로 프론트엔드 개발이었지만 ORM 및 nativequery를 통해 CRUD 작업도 병행하였습니다. 
 프론트 엔드 개발은 고객용 페이지를 만들어서 공급사, 제작사들의 월별 정산 내역을 보여주는 페이지 작업을 하였고 백엔드 개발은 보안, 인증작업 및 CRUD작업과 프로젝트 배포였습니다.  
@@ -42,7 +42,7 @@
 	- **서비스 홍보용 사이트 제작**
 		+ **기간** : 2018.05 ~ 2018.08
 		+ **회사** : (주) 블렌딩
-		+ **사용기술** : aws ec2, route 53, git, nodejs, pm2, nginx, html, css, javascript
+		+ **사용기술** : javascript, nodejs, pm2, nginx, aws ec2, route 53, git, html, css
 		+ **설명** : 회사 서비스 홍보용 사이트 개발 및 배포를 맡았습니다. 프론트 엔드 개발은 fullpage.js플러그인을 적용하여 배달의 민족 사이트처럼 단일 페이지이지만 tab을 두어 일정 간격으로 페이지가 이동하는 것처럼 보이게 만들었고 반응형 웹으로 만들었습니다. 서버 배포는 EC2에 nodejs 프로젝트를 올려 pm2와 nginx를 이용하여 배포하였습니다. 또 aws route53을 통해 도메인 주소를 적용하였습니다.
 		
 	- **탁구 선수 경기 분석 사이트**
