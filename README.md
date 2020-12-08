@@ -3,8 +3,8 @@
 # Itroduction
 * **Profile**
  	- **권성준 (Seongjun Kown)**
-	- **010.8414.3505**
-	- **창원대학교 컴퓨터공학과 졸업**
+	- 010.8414.3505
+	- 창원대학교 컴퓨터공학과 졸업
 	- sungjun7421@gmail.com
 	
 * **Career**
